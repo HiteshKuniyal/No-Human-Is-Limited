@@ -30,3 +30,12 @@ p{
 body{
     background-color:blanchedalmond;
 }
+img{
+    border: 2px solid blue;
+}
+div{
+    border: 1px solid black;
+    margin: 1px;
+    background-color: aquamarine;
+    text-align: justify;
+}
